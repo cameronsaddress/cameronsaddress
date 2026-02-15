@@ -29,6 +29,11 @@ Transforms raw field video into structured training guides using NeMo Parakeet A
 
 **Python, FastAPI, React, Celery, FFmpeg, Docker**
 
+### [What_If](https://github.com/cameronsaddress/What_If) - AI Life-Path Simulator
+Explores alternate outcomes of major life decisions using multi-model LLM reasoning through OpenRouter (Claude Sonnet 4.5, GPT-4o, Gemini 2.0 Flash), real-world probability data across 6 decision categories, and an interactive "River of Destiny" SVG visualization.
+
+**Python, Streamlit, OpenRouter, Pydantic, SQLAlchemy, svgwrite**
+
 ### [SnapChef](https://github.com/cameronsaddress/SnapChef) - iOS Recipe App (Live on App Store)
 Photograph your fridge, get personalized meal suggestions. Multi-provider LLM backend with Gemini and GPT fallback.
 
@@ -38,7 +43,7 @@ Photograph your fridge, get personalized meal suggestions. Multi-provider LLM ba
 
 **Languages:** Python, TypeScript, Rust, Swift
 
-**AI/ML:** YOLO, CLIP, XGBoost, RWKV, DeepSeek, NeMo, Whisper, OpenAI, Anthropic, Google Gemini, Grok
+**AI/ML:** YOLO, CLIP, XGBoost, RWKV, DeepSeek, NeMo, Whisper, OpenAI, Anthropic, Google Gemini, Grok, OpenRouter
 
 **Backend:** FastAPI, Node.js, Express, Celery
 
